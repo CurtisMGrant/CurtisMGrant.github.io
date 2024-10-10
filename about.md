@@ -12,7 +12,7 @@ I am a 4th year graduate student at Northwestern University. I am supervised by 
 
 I primarily work in high dimensional probability. In particular I am interested in behavior of spin glasses (static and dynamic), and applications of probability to high dimensional statistical problems.      
 Previously I have worked on problems in Geometric Group theory and Geometric topology.   
-My CV can be found [here.](https://drive.google.com/file/d/1lHT-1BvbHhAEsHWdN_aplaIONHPMu4qT/view?usp=sharing)
+My CV can be found [here.](https://drive.google.com/file/d/1OsDiM90ZW3PbU4vveZcUHbblcMDHqlD3/view?usp=sharing)
 
 ### Contact me
 
