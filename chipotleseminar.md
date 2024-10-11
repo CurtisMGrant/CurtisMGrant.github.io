@@ -11,9 +11,9 @@ Chipotle Seminar is the informal probability seminar for the Northwestern math d
 
 October 2nd: Tuca Auffinger. Reference: [Hessian Spectrum in the ground state for spherical spin glasses](https://arxiv.org/abs/2409.15728). 
 
-October 10th: Adithya Upadhya. Reference [Thermodynamic Limit of the First Lee-Yang Zero](https://arxiv.org/abs/2210.03602).
+October 10th: Adithya Upadhya. Reference: [Thermodynamic Limit of the First Lee-Yang Zero](https://arxiv.org/abs/2210.03602).
 
-October 17th: Curtis Grant 
+October 17th: Curtis Grant. Reference:  [Roots of Trigonometric Polynomials with General Dependent Coefficients](https://arxiv.org/pdf/2409.15057).
 
 October 24rd: 
 
