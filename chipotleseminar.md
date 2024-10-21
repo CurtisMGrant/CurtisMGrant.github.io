@@ -15,7 +15,7 @@ October 10th: Adithya Upadhya. Reference: [Thermodynamic Limit of the First Lee-
 
 October 17th: Curtis Grant. Reference:  [Roots of Trigonometric Polynomials with General Dependent Coefficients](https://arxiv.org/pdf/2409.15057).
 
-October 24rd: 
+October 24rd: No Seminar (Probability Seminar instead).
 
 October 31th: 
 
