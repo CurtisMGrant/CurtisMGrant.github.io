@@ -17,7 +17,7 @@ October 17th: Curtis Grant. Reference:  [Roots of Trigonometric Polynomials with
 
 October 24rd: No Seminar (Probability Seminar instead).
 
-October 31th: 
+October 31th: Nick Lohr. References: [[1]](https://arxiv.org/pdf/1310.4532) [[2]](https://arxiv.org/pdf/1602.06848).
 
 November 7th: No Seminar, workshop on random dynamics at [NITMB](https://www.nitmb.org/random-dynamical-systems). 
 
