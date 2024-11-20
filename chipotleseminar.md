@@ -23,6 +23,6 @@ November 7th: No Seminar, workshop on random dynamics at [NITMB](https://www.nit
 
 November 14th: Nick Lohr. References: [[1]](https://arxiv.org/pdf/1310.4532) [[2]](https://arxiv.org/pdf/1602.06848).
 
-November 21th: 
+November 21th: Dewan Chowdhury. Reference: [The influence of variables on Boolean functions](https://eiche.theoinf.tu-ilmenau.de/person/md-doku/Artikel/the-influence-of-variables.pdf).  
 
 November 28th: No Seminar. 
