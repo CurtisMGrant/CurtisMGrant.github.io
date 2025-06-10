@@ -6,7 +6,7 @@ permalink: /about/
 
 ![image](/images/headshot.jpeg){:width="30%" style="float: right"}
 
-I am a 4th year graduate student at Northwestern University. I am supervised by [Tuca Auffinger](http://math.northwestern.edu/~auffing/) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/). My research is partially supported through a NSERC PGSD award. 
+I am a 4th year graduate student at Northwestern University. I am supervised by [Tuca Auffinger](https://sites.math.northwestern.edu/~auffing/index.html) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/). My research is partially supported through a NSERC PGSD award. 
 
 ### More Information
 
