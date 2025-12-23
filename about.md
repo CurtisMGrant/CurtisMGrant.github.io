@@ -19,3 +19,5 @@ My CV can be found [here.](https://drive.google.com/file/d/1Kvc4BqYzqLKPIgdBqGFO
 ### Contact me
 
 My email is: curtisgrant2026(at)u(dot)northwestern(dot)edu
+
+For math related inquiries please contact me at: cgrant(dot)math(at)gmail(dot)com
