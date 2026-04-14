@@ -12,7 +12,7 @@ I am a 5th year graduate student at Northwestern University. I am supervised by 
 
 I primarily work in high dimensional probability. In particular I am interested in behavior of spin glasses (static and dynamic), and applications of probability to high dimensional statistical problems.      
 
-I am on the job market for the academic year of 2026-2027.
+I will be a postdoctoral fellow at the University of Waterloo starting September 1st 2026. 
   
 My CV can be found [here.](https://drive.google.com/file/d/1Kvc4BqYzqLKPIgdBqGFOBkOizEvy9EKe/view?usp=sharing)
 
