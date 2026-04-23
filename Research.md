@@ -3,6 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
+- [Mixing Times of Langevin Dynamics for Spiked Matrix Models](https://arxiv.org/abs/2604.20008v1)
+
+  with [R. Gheissari](https://sites.northwestern.edu/gheissari/main/), and T. Yu. 2026
+
 - [Pseudo-Maximum Likelihood Theory for High-Dimensional Rank One Inference](https://arxiv.org/abs/2503.01708)
 
   With [A. Jagannath](https://aukosh.github.io/) and [J. Ko](https://justinpko.github.io/). To appear in Annals of Statistics. 
