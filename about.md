@@ -14,7 +14,7 @@ I primarily work in high dimensional probability. In particular I am interested 
 
 I will be a postdoctoral fellow at the University of Waterloo starting in fall 2026. 
   
-My CV can be found [here.](https://drive.google.com/file/d/1Kvc4BqYzqLKPIgdBqGFOBkOizEvy9EKe/view?usp=sharing)
+My CV can be found [here.](https://drive.google.com/file/d/1hB66vw94LhBNGhB0SqQa-6bFr6b8H5XQ/view?usp=sharing)
 
 ### Contact me
 
