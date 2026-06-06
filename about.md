@@ -6,18 +6,22 @@ permalink: /about/
 
 ![image](/images/headshot.jpeg){:width="30%" style="float: right"}
 
-I am a 5th year graduate student at Northwestern University. I am supervised by [Tuca Auffinger](https://sites.math.northwestern.edu/~auffing/index.html) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/). My research is partially supported through a NSERC PGSD award. 
 
-### More Information
 
-I primarily work in high dimensional probability. In particular I am interested in behavior of spin glasses (static and dynamic), and applications of probability to high dimensional statistical problems.      
+### Research Interests
+
+I am a probabalist working primarily on spin glass models (studygin both static and dynamic properties), and applications of probability to high dimensional statistical inference problems.      
+
+### Bio
+I received a B.Sc. in mathematics from the University of Toronto in 2021, and received my Ph.D. from Northwestern University in 2026.
+
+My Ph.D. was supervised by  [Tuca Auffinger](https://sites.math.northwestern.edu/~auffing/index.html) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/).
 
 I will be a postdoctoral fellow at the University of Waterloo starting in fall 2026. 
   
-My CV can be found [here.](https://drive.google.com/file/d/1hB66vw94LhBNGhB0SqQa-6bFr6b8H5XQ/view?usp=sharing)
+My CV can be found [here.](https://drive.google.com/file/d/1czNcdvEp_TvZqVk0ct40mtgWAYy60ya_/view?usp=sharing)
 
 ### Contact me
 
-My email is: curtisgrant2026(at)u(dot)northwestern(dot)edu
 
-For math related inquiries please contact me at: cgrant(dot)math(at)gmail(dot)com
+My email is: cgrant(dot)math(at)gmail(dot)com
