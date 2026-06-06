@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Research Interests
 
-I am a probabalist working primarily on spin glass models (studygin both static and dynamic properties), and applications of probability to high dimensional statistical inference problems.      
+I am a probabalist working primarily on spin glass models (studying both static and dynamic properties), and applications of probability to high dimensional statistical inference problems.      
 
 ### Bio
 I received a B.Sc. in mathematics from the University of Toronto in 2021, and received my Ph.D. from Northwestern University in 2026.
