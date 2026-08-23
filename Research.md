@@ -13,9 +13,11 @@ permalink: /research/
 
 ### Publications
 
-- [Pseudo-Maximum Likelihood Theory for High-Dimensional Rank One Inference](https://arxiv.org/abs/2503.01708)
+- [Pseudo-Maximum Likelihood Theory for High-Dimensional Rank One Inference](https://doi.org/10.1214/26-AOS2639) [[Arxiv Link](https://arxiv.org/abs/2503.01708)]
 
-  With [A. Jagannath](https://aukosh.github.io/) and [J. Ko](https://justinpko.github.io/). To appear in Annals of Statistics. 
+  With [A. Jagannath](https://aukosh.github.io/) and [J. Ko](https://justinpko.github.io/).
+
+  2026 in The Annals of Statistics.
 - [Metastability of Glauber Dynamics for Heavy-Tailed Spin Glasses](https://link.springer.com/article/10.1007/s00220-025-05265-x) With [R. Gheissari](https://sites.northwestern.edu/gheissari/main/). [[Arxiv Link](https://arxiv.org/abs/2407.11874)]
 
   2025 in Communications in Mathematical Physiscs.
