@@ -17,7 +17,7 @@ I received a B.Sc. in mathematics from the University of Toronto in 2021, and re
 
 My Ph.D. was supervised by  [Tuca Auffinger](https://sites.math.northwestern.edu/~auffing/index.html) and [Reza Gheissari](https://sites.northwestern.edu/gheissari/).
 
-I will be a postdoctoral fellow at the University of Waterloo starting in fall 2026. 
+I am a postdoctoral fellow at the University of Waterloo, in the department of Statistics and Actuarial Sciences. 
   
 My CV can be found [here.](https://drive.google.com/file/d/1czNcdvEp_TvZqVk0ct40mtgWAYy60ya_/view?usp=sharing)
 
