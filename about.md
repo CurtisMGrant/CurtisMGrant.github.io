@@ -23,5 +23,6 @@ My CV can be found [here.](https://drive.google.com/file/d/1czNcdvEp_TvZqVk0ct40
 
 ### Contact me
 
+For Math related inquiries contact me at: cgrant(dot)math(at)gmail(dot)com
 
-My email is: cgrant(dot)math(at)gmail(dot)com
+For any others: curtis(dot)grant(at)uwaterloo(dot)ca
