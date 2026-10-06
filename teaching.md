@@ -9,4 +9,4 @@ In the fall of 2026 I am teaching STAT334 Probability and Stochastic Processes f
 
 
 ### Past Teaching
-I have currently served as a teaching assisstant at the University of Toronto and Northwestern University. See below for a complete list of courses I have previously taught. 
+I have currently served as a teaching assistant at the University of Toronto and Northwestern University. See below for a complete list of courses I have previously taught. 
